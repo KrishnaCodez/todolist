@@ -1,0 +1,6 @@
+@tailwind components;
+@tailwind base;
+
+.swithDot {
+  @apply w-4 h-4 bg-white shadow-xl rounded-full transform duration-200 dark:bg-gray-300;
+}
